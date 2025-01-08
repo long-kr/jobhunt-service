@@ -1,4 +1,4 @@
-package com.longhuynh.jobhunt_backend.entity;
+package com.longhuynh.jobhunt_backend.domain.constant;
 
 public enum ActionType {
     MEMBER_CREATED,

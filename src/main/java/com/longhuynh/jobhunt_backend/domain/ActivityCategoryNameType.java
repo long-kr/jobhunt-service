@@ -1,4 +1,4 @@
-package com.longhuynh.jobhunt_backend.entity;
+package com.longhuynh.jobhunt_backend.domain;
 
 public enum ActivityCategoryNameType {
     APPLY,
